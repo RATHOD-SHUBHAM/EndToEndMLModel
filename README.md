@@ -19,3 +19,8 @@ conda activate venv/
 ```
 conda deactivate
 ```
+
+### URL
+```
+https://linear-regression-ml-model.herokuapp.com/predict
+```
